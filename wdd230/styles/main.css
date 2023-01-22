@@ -6,7 +6,7 @@ body {
 
 /* styling for the header */
 header {
-    background-color: #1abc9c;
+    background-color: #023047;
     border-radius: 40px;
     text-transform: capitalize;
 }
@@ -58,7 +58,7 @@ main {
 
 /* styling for footer */
 footer {
-    background-color: #1abc9c;
+    background-color: #023047;
     border-radius: 40px;
     text-transform: capitalize;
     text-align: center;
